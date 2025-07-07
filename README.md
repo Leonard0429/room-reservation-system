@@ -22,4 +22,12 @@ A beginner-friendly Python project that simulates a room reservation system with
 - Random number generation
 
 ## 🔐 Admin Password
+admin123
+
+## 🏃 How to Run
+
+Make sure you have Python installed.
+
+```bash
+python room_booking.py
 
